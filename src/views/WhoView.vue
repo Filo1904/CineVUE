@@ -2,6 +2,7 @@
 
 import Navbar from '@/components/Navbar.vue';
 import Header from '@/components/Header.vue';
+import AdminCard from '@/components/AdminCard.vue';
 
 </script>
 
@@ -15,6 +16,8 @@ import Header from '@/components/Header.vue';
     <p><b>Cineva</b> è stato fondato nel 2025 da Fabio Pili e Michele Faedda, i Tutor di Fondamenti di Programmazione Web del corso di Informatica dell'Università di Cagliari</p>
 
     <a href="index.html">Torna alla home</a>
+
+    <AdminCard></AdminCard>
 
 
 </template>

@@ -8,8 +8,6 @@ import News from '@/components/News.vue';
 
 <template>
 
-    <Header></Header>
-    <Navbar></Navbar>
 
     <h1>Novità dal mondo del Cinema</h1>
     <br>

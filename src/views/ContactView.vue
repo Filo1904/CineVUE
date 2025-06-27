@@ -7,9 +7,6 @@ import Header from '@/components/Header.vue';
 
 <template>
 
-    <Header></Header>
-    <Navbar></Navbar>
-
     <h1>Contatti</h1>
     <p>Se avete bisongo di qualsiasi tipo di assistenza potete contattarci ai seguenti indirizzi</p>
     <p><b>Segnalazione utente:</b> <i>segnalazione.utentiburdi@cineva.it</i></p>
